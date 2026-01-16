@@ -4,3 +4,4 @@ Main branch change after gitignore
 FEATURE BRANCH CHANGED
 file1 is changed from cloned repo
 Feature branch change after gitignore
+This change will be stashed
